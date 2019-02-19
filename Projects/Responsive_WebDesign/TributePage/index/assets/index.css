@@ -1,0 +1,29 @@
+#main {
+  margin: 0 auto;
+  padding-top: 10px;
+  height: 100vh;
+  width: 80%;
+  display: flex;
+  overflow-y: hidden;
+  flex-direction: column;
+}
+
+#banner {
+  width: 100vw;
+  background-color: black;
+}
+
+#title {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+#img-div {
+  margin: 0 auto;
+}
